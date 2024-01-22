@@ -42,9 +42,9 @@ C:\Program Files (x86)\Common Files\Adobe
 
 ### Keeping Rules
 
-- **KeepDestination**: Deletes the source directory to the recycle bin and replaces it with a link pointing to the target directory.
-- **KeepSource**: Moves the source to the target directory and creates a link at the original source path, pointing to the target directory.
-- **KeepNothing**: Deletes the content of both the source and target directories. Then, creates a link at the original source path, pointing to the already empty target directory.
+- **KeepDestination**: Delete the source directory to the recycle bin and replace it with a link pointing to the target directory.
+- **KeepSource**: Move the source to the target directory and create a link at the original source path, pointing to the target directory.
+- **KeepNothing**: Delete the content of both the source and target directories. Then, create a link at the original source path, pointing to the already empty target directory.
 
 ### Delimiters
 
